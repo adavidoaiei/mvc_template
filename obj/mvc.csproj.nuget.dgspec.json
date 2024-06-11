@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/adavidoaiei/Desktop/mvc2/mvc/mvc.csproj": {}
+    "/home/adavidoaiei/Desktop/mvc_template/mvc.csproj": {}
   },
   "projects": {
-    "/home/adavidoaiei/Desktop/mvc2/mvc/mvc.csproj": {
+    "/home/adavidoaiei/Desktop/mvc_template/mvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/adavidoaiei/Desktop/mvc2/mvc/mvc.csproj",
+        "projectUniqueName": "/home/adavidoaiei/Desktop/mvc_template/mvc.csproj",
         "projectName": "mvc",
-        "projectPath": "/home/adavidoaiei/Desktop/mvc2/mvc/mvc.csproj",
+        "projectPath": "/home/adavidoaiei/Desktop/mvc_template/mvc.csproj",
         "packagesPath": "/home/adavidoaiei/.nuget/packages/",
-        "outputPath": "/home/adavidoaiei/Desktop/mvc2/mvc/obj/",
+        "outputPath": "/home/adavidoaiei/Desktop/mvc_template/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/adavidoaiei/.nuget/NuGet/NuGet.Config"

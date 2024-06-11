@@ -7,6 +7,7 @@ builder.Services.AddDbContext<DBContext>(options =>
     options.UseSqlite("Data Source=mydatabase.db")
 );
 
+
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
