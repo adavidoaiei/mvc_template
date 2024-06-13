@@ -15,4 +15,6 @@ using Models;
         public DbSet<Inventory> Inventory { get; set; } = default!;
 
         public DbSet<Persons> Persons { get; set; } = default!;
+
+        public DbSet<Product> Products { get; set; } = default!;
     }
