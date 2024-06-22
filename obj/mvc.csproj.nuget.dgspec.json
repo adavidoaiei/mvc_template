@@ -11,7 +11,7 @@
         "projectName": "mvc",
         "projectPath": "C:\\Users\\adavidoaiei\\source\\repos\\mvc_template\\mvc.csproj",
         "packagesPath": "C:\\Users\\adavidoaiei\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adavidoaiei\\Source\\Repos\\mvc_template\\obj\\",
+        "outputPath": "C:\\Users\\adavidoaiei\\source\\repos\\mvc_template\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\adavidoaiei\\AppData\\Roaming\\NuGet\\NuGet.Config",
