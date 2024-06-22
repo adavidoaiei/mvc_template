@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\adavidoaiei\\source\\repos\\mvc_template\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{78F01F86-E30A-4198-A57B-B129356400A7}|mvc.csproj|c:\\users\\adavidoaiei\\source\\repos\\mvc_template\\mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{78F01F86-E30A-4198-A57B-B129356400A7}|mvc.csproj|solutionrelative:mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{78F01F86-E30A-4198-A57B-B129356400A7}|mvc.csproj|c:\\users\\adavidoaiei\\source\\repos\\mvc_template\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78F01F86-E30A-4198-A57B-B129356400A7}|mvc.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{78F01F86-E30A-4198-A57B-B129356400A7}|mvc.csproj|c:\\users\\adavidoaiei\\source\\repos\\mvc_template\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78F01F86-E30A-4198-A57B-B129356400A7}|mvc.csproj|solutionrelative:controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78F01F86-E30A-4198-A57B-B129356400A7}|mvc.csproj|c:\\users\\adavidoaiei\\source\\repos\\mvc_template\\mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{78F01F86-E30A-4198-A57B-B129356400A7}|mvc.csproj|solutionrelative:mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{78F01F86-E30A-4198-A57B-B129356400A7}|mvc.csproj|c:\\users\\adavidoaiei\\source\\repos\\mvc_template\\mydatabase.db||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +42,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\adavidoaiei\\source\\repos\\mvc_template\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -55,20 +55,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\adavidoaiei\\source\\repos\\mvc_template\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\adavidoaiei\\source\\repos\\mvc_template\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Controllers\\ProductController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T15:53:15.258Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PersonController.cs",
               "DocumentMoniker": "C:\\Users\\adavidoaiei\\source\\repos\\mvc_template\\Controllers\\PersonController.cs",
               "RelativeDocumentMoniker": "Controllers\\PersonController.cs",
@@ -92,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "mvc.csproj",
               "DocumentMoniker": "C:\\Users\\adavidoaiei\\source\\repos\\mvc_template\\mvc.csproj",
               "RelativeDocumentMoniker": "mvc.csproj",
@@ -100,7 +87,20 @@
               "RelativeToolTip": "mvc.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-18T19:13:34.584Z"
+              "WhenOpened": "2024-06-18T19:13:34.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\adavidoaiei\\source\\repos\\mvc_template\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\adavidoaiei\\source\\repos\\mvc_template\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T15:53:15.258Z"
             }
           ]
         }
