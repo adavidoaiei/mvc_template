@@ -17,4 +17,6 @@ using Models;
         public DbSet<Persons> Persons { get; set; } = default!;
 
         public DbSet<Product> Products { get; set; } = default!;
+
+        public DbSet<Tourism> Tourism { get; set; } = default!;
     }
