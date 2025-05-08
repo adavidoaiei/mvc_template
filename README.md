@@ -44,10 +44,6 @@ A full-featured ASP.NET Core MVC application template demonstrating CRUD operati
 - `Data/`: Database context and configurations
 - `Migrations/`: Database migration files
 
-## Demo
-
-Live demo available at: http://adavidoaiei.runasp.net/Product
-
 ## Usage
 
 Navigate to different sections through the navigation menu:
