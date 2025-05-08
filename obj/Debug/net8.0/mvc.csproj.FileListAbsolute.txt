@@ -833,3 +833,5 @@ C:/Users/adavidoaiei/Source/Repos/mvc_template/obj/Debug/net8.0/ref/mvc.dll
 /home/adavidoaiei/Desktop/mvc_template/bin/Debug/net8.0/System.Text.Encodings.Web.dll
 /home/adavidoaiei/Desktop/mvc_template/bin/Debug/net8.0/System.Text.Json.dll
 /home/adavidoaiei/Desktop/mvc_template/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+/home/adavidoaiei/Desktop/mvc_template/bin/Debug/net8.0/package-lock.json
+/home/adavidoaiei/Desktop/mvc_template/bin/Debug/net8.0/package.json

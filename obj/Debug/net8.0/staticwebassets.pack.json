@@ -9,8 +9,20 @@
       "PackagePath": "staticwebassets/css/site.css"
     },
     {
+      "Id": "/home/adavidoaiei/Desktop/mvc_template/wwwroot/css/styles.css",
+      "PackagePath": "staticwebassets/css/styles.css"
+    },
+    {
       "Id": "/home/adavidoaiei/Desktop/mvc_template/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/home/adavidoaiei/Desktop/mvc_template/wwwroot/js/datatables-simple-demo.js",
+      "PackagePath": "staticwebassets/js/datatables-simple-demo.js"
+    },
+    {
+      "Id": "/home/adavidoaiei/Desktop/mvc_template/wwwroot/js/scripts.js",
+      "PackagePath": "staticwebassets/js/scripts.js"
     },
     {
       "Id": "/home/adavidoaiei/Desktop/mvc_template/wwwroot/js/site.js",
